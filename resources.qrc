@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo_ikit.png</file>
+        <file>qindwgt/a_0.png</file>
+        <file>qindwgt/a_1.png</file>
+        <file>qindwgt/a_2.png</file>
+        <file>qindwgt/b_0.png</file>
+        <file>qindwgt/b_1.png</file>
+        <file>qindwgt/b_2.png</file>
+        <file>qindwgt/c_0.png</file>
+        <file>qindwgt/c_1.png</file>
+        <file>qindwgt/c_2.png</file>
+        <file>qindwgt/d_0.png</file>
+        <file>qindwgt/d_1.png</file>
+        <file>qindwgt/d_2.png</file>
+        <file>qindwgt/e_0.png</file>
+        <file>qindwgt/e_1.png</file>
+        <file>qindwgt/e_2.png</file>
+        <file>qindwgt/f_0.png</file>
+        <file>qindwgt/f_1.png</file>
+        <file>qindwgt/f_2.png</file>
+        <file>qindwgt/g_0.png</file>
+        <file>qindwgt/g_1.png</file>
+        <file>qindwgt/g_2.png</file>
+    </qresource>
+</RCC>
